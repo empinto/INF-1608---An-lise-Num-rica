@@ -3,3 +3,4 @@ Repositório para armazenar atividades feitas durante o curso de INF-1608 - Aná
 Laboratórios:
  * LAB0 - Representação de Matriz
  * LAB1 - Série de Taylor
+ * LAB2 - Raízes de Função
