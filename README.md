@@ -6,3 +6,4 @@ Laboratórios:
  * LAB2 - Raízes de Função
  * LAB3 - Sistemas Lineares
  * LAB4 - Interpolação de Polinômios
+ * LAB5 - Método dos Mínimos Quadrados
