@@ -9,3 +9,4 @@ Laboratórios:
  * LAB5 - Método dos Mínimos Quadrados
  * LAB7 - Derivação e Integração Numéricas
  * LAB8 - Integração Numérica Adaptativa
+ * LAB11 - Métodos Iterativos para Sistemas Lineares
