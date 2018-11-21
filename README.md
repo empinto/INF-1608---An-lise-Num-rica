@@ -5,3 +5,4 @@ Laboratórios:
  * LAB1 - Série de Taylor
  * LAB2 - Raízes de Função
  * LAB3 - Sistemas Lineares
+ * LAB4 - Interpolação de Polinômios
