@@ -4,3 +4,4 @@ Laboratórios:
  * LAB0 - Representação de Matriz
  * LAB1 - Série de Taylor
  * LAB2 - Raízes de Função
+ * LAB3 - Sistemas Lineares
