@@ -8,3 +8,4 @@ Laboratórios:
  * LAB4 - Interpolação de Polinômios
  * LAB5 - Método dos Mínimos Quadrados
  * LAB7 - Derivação e Integração Numéricas
+ * LAB8 - Integração Numérica Adaptativa
