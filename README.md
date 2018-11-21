@@ -7,3 +7,4 @@ Laboratórios:
  * LAB3 - Sistemas Lineares
  * LAB4 - Interpolação de Polinômios
  * LAB5 - Método dos Mínimos Quadrados
+ * LAB7 - Derivação e Integração Numéricas
